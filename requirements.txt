@@ -1,0 +1,10 @@
+streamlit==1.43.2
+langchain==0.3.21
+chromadb==0.5.23
+sentence-transformers==3.4.1
+huggingface-hub==0.29.1
+pypdf==5.4.0
+docx2txt==0.8
+unstructured==0.10.0
+Markdown==3.7
+python-dotenv==1.0.1
